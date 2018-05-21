@@ -12,6 +12,6 @@ It wont let me upload the main files by folder so i have to do it on my windows 
 
 # Languages :
 
-C#
-Batch
+C#,
+Batch,
 Binary
