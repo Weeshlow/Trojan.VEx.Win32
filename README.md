@@ -1,7 +1,4 @@
-# Trojan.VEx.Win32
-# Trojan.V-Extractor.Win32
-# C#
-
+# Read Me
 Updated The Files Where Not Arranged Correct
 
 READ ME :
@@ -12,3 +9,9 @@ The Payloads are Play Sounds, Send Random Keyboard Input, Move Mouse.
 
 Info :
 It wont let me upload the main files by folder so i have to do it on my windows pc.
+
+# Languages :
+
+C#
+Batch
+Binary
