@@ -2,7 +2,7 @@
 
 This malware will harm your computer and makes it unusable.
 The Creator Is Not Responsible For Any Damage To Your Computer.
-If You Would Like To Test It Get a Virtual Machine Here : https://www.virtualbox.org
+If You Would Like To Test It Get a Virtual Machine Here : https://www.virtualbox.org or install Windows on a VPS
 You Will Also Need A File To Boot Windows 10 Boot File Link : https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/
 Tutorial To Install a Virtual Machine : https://www.youtube.com/watch?v=Wxv7A3bN8Co
 # Read Me Info
