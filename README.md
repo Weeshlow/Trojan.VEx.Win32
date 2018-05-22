@@ -30,10 +30,11 @@ Nothing For Now.
 # Languages :
 
 C#,
+C++,
 Batch,
 Binary,
 (Maybe) Assembly
-(Maybe) C++
+
 
 # Projects :
 Add a MBR Overwrite With Assembly or C++.
