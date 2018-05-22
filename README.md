@@ -30,6 +30,7 @@ Nothing For Now.
 # Languages :
 
 C#,
+C,
 C++,
 Batch,
 Binary,
