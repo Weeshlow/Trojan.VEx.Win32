@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  Screen Melter.cpp
+LINK : warning LNK4067: ambiguous entry point; selected 'WinMainCRTStartup'
+  Screen Melter.vcxproj -> C:\Users\roswell1974\source\repos\Screen Melter\Debug\Screen Melter.exe
