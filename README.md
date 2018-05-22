@@ -41,8 +41,8 @@ Binary,
 # Projects :
 Add a MBR Overwrite With Assembly or C++.
 
-# Virus Scan (Virus Total) (Not Updated):
+# Virus Scan (Virus Total) (Updated):
 (More Detections!?)Link 1 Clean : https://www.virustotal.com/#/file/461171c0fdbbf50cfb9749428e6e6a77da6c706224107e8ea0faed4fec6ce383/detection
 
-Link 2 Destructive : https://www.virustotal.com/#/file/dd483f5210ad390a2f0f4e9671af64306e640b7eb780eb2208b9f5912b24903e/detection
-
+Link 2 Destructive : 
+https://www.virustotal.com/#/file/67436c2765dbea9df2a354c169039b7f3b1f5f593eb86cfd8fcf26720469901a/detection
