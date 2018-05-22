@@ -1,6 +1,7 @@
 # Read Me :
 
-This malware will harm your computer and makes it unusable.
+(This Is a Side Project For Fun. Please Do Not Use This For a Malicious Purpose. Spreading Malware Is a Crime.)
+This malware will harm your computer and makes it unusable.2
 The Creator Is Not Responsible For Any Damage To Your Computer.
 If You Would Like To Test It Get a Virtual Machine Here : https://www.virtualbox.org or install Windows on a VPS
 You Will Also Need A File To Boot Windows 10 Boot File Link : https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/
@@ -40,7 +41,7 @@ Binary,
 # Projects :
 Add a MBR Overwrite With Assembly or C++.
 
-# Virus Scan (Virus Total) :
+# Virus Scan (Virus Total) (Not Updated):
 (More Detections!?)Link 1 Clean : https://www.virustotal.com/#/file/461171c0fdbbf50cfb9749428e6e6a77da6c706224107e8ea0faed4fec6ce383/detection
 
 Link 2 Destructive : https://www.virustotal.com/#/file/dd483f5210ad390a2f0f4e9671af64306e640b7eb780eb2208b9f5912b24903e/detection
