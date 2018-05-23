@@ -25,8 +25,13 @@ The Payloads are Play Sounds, Send Random Keyboard Input, Move Mouse.
 READ ME (Clean Version) :
 Can be Removed Easy Does The Payloads.
 
-Info : 
-Nothing For Now.
+# Payload Info : 
+vexwork1 - 
+vexwork2 - 
+vexwork3 - 
+vexwork4 - 
+vexwork5 - 
+vexwork6 -
 
 # Languages :
 
