@@ -26,12 +26,12 @@ READ ME (Clean Version) :
 Can be Removed Easy Does The Payloads.
 
 # Payload Info : 
-vexwork1 - 
-vexwork2 - 
-vexwork3 - 
-vexwork4 - 
-vexwork5 - 
-vexwork6 -
+vexwork1 - Makes a welcome to hell window.
+vexwork2 - Opens Payloads and Copys Files, Sets a Startup File.
+vexwork3 - Set Cursor and Background.
+test - Just an empty file.
+vexwork5 - Plays System Sounds, Moves Cursor, Sends Keyboard Inputs, and Random Pop-UP Messages 
+vexwork6 - Melting Screen
 
 # Languages :
 
