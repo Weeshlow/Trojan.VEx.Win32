@@ -34,6 +34,7 @@ C#,
 C,
 C++,
 Batch,
+Visual Basic,
 Binary,
 (Maybe) Assembly
 
