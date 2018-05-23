@@ -1,7 +1,7 @@
 # Read Me :
 
 (This Is a Side Project For Fun. Please Do Not Use This For a Malicious Purpose. Spreading Malware Is a Crime.)
-This malware will harm your computer and makes it unusable.2
+This malware will harm your computer and makes it unusable. 
 The Creator Is Not Responsible For Any Damage To Your Computer.
 If You Would Like To Test It Get a Virtual Machine Here : https://www.virtualbox.org or install Windows on a VPS
 You Will Also Need A File To Boot Windows 10 Boot File Link : https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/
